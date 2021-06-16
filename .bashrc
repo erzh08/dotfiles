@@ -4,6 +4,8 @@
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
+alias v="vim"
+alias vv="vim .vimrc"
 
 # Characters for PS* customization:
 # \d		- current date
