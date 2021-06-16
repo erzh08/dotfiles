@@ -25,7 +25,7 @@
         map <C-k> <C-w>k
         map <C-l> <C-w>l
 
-" Macros
+" Mappings
         autocmd FileType html,tex inoremap ;<Space> <Esc>/<++><Enter>"_4cl
 """HTML
         autocmd FileType html inoremap ;i <em></em><Space><++><Esc>FeT>i
